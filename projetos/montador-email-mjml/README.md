@@ -36,4 +36,4 @@ envio, o que gera um passo manual extra para quem monta a peça.
 
 ## Imagens
 
-Capturas pendentes: a tela do montador exibe, hoje, banners e rodapé de clientes reais. Serão geradas com material fictício.
+![Montador de e-mail: blocos de estrutura (1, 2 e 3 colunas), elementos (banner, botão, rodapé) e exportação em MJML, HTML e TXT](imagens/montador.png)
