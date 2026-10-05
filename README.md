@@ -40,7 +40,7 @@ Projetos desenvolvidos para terceiros são apresentados como **estudo de caso**:
 ## Contato
 
 - LinkedIn: [linkedin.com/in/htmellis](https://www.linkedin.com/in/htmellis/)
-- E-mail: _a definir_
+- E-mail: [sociallabsmkt@gmail.com](mailto:sociallabsmkt@gmail.com)
 
 ---
 

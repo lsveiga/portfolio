@@ -35,4 +35,4 @@ desconhecidos de "editar PDF online".
 
 ## Imagens
 
-![Tela inicial do gerador de links em PDF: barra de ferramentas com desfazer, refazer, testar online e baixar](imagens/gerador.png)
+![Gerador de links em PDF: área de link desenhada sobre o texto e painel para escolher entre ir a uma página ou abrir uma URL](imagens/gerador.png)
