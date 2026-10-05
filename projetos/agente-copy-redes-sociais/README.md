@@ -1,4 +1,4 @@
-# Bouzon Engenharia — Agente de Copy para Redes Sociais
+# Agente de Copy para Redes Sociais — Empresa de Engenharia Civil
 
 > Pipeline com IA que transforma um briefing em textos de Instagram fiéis à marca e à regulamentação da profissão.
 > Produto da operação **Social Labs MKT**.
@@ -51,4 +51,4 @@ O **Brand Playbook** (voz, vocabulário, pilares, CTAs) é a fonte única da ver
 
 ## Imagens
 
-Adicionar em [`imagens/`](imagens/): diagrama do fluxo e exemplo de briefing → texto gerado (com dados do cliente aprovados para exibição).
+Pendente: diagrama do fluxo (formulário → decupação → redação → resposta). Não há tela de usuário final nesta etapa.

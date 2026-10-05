@@ -1,6 +1,6 @@
-# Portfólio — Ellis
+# Portfólio — Ellis Veiga · Social Labs MKT
 
-Desenvolvedor focado em **ferramentas web sob medida, automação e IA aplicada a marketing**.
+Sou desenvolvedor e fundador da **Social Labs MKT**, focado em **ferramentas web sob medida, automação e IA aplicada a marketing**.
 Este repositório reúne estudos de caso dos projetos que desenhei e construí: o problema de
 cada cliente, a decisão técnica tomada e como a solução resolveu.
 
@@ -15,11 +15,11 @@ cada cliente, a decisão técnica tomada e como a solução resolveu.
 | [QR Code Dinâmico](projetos/qrcode-dinamico/) | QR Codes impressos cujo destino pode ser trocado depois | Ferramenta interna (Solo Propaganda) | Em produção |
 | [Montador de E-mail MJML](projetos/montador-email-mjml/) | Montar e-mail marketing responsivo sem codar HTML | Ferramenta interna (Solo Propaganda) | Em produção |
 | [Gerador de Links em PDF](projetos/gerador-links-pdf/) | Inserir links clicáveis em PDFs prontos | Ferramenta interna (Solo Propaganda) | Em produção |
-| [Bouzon Engenharia](projetos/bouzon-engenharia/) | Copy de redes sociais com agente de IA, sem inventar informação | Produto (Social Labs MKT) | Pipeline validado em produção |
+| [Agente de Copy para Redes Sociais](projetos/agente-copy-redes-sociais/) | Copy de redes sociais com agente de IA, sem inventar informação | Produto (Social Labs MKT) | Pipeline validado em produção |
 | [Letras Palco](projetos/letras-palco/) | Teleprompter de letras que acompanha o tempo da banda | App (Social Labs MKT) | No ar |
-| [Corrida Maluca](projetos/corrida-maluca/) | Landing page + gestão de ganhadores de promoção | Campanha (Solo Propaganda) | Entregue (campanha encerrada) |
+| [Promoção de Supermercado](projetos/promocao-gestao-ganhadores/) | Landing page + gestão de ganhadores de promoção | Campanha (Solo Propaganda) | Entregue (campanha encerrada) |
 | [Conjura](projetos/conjura/) | Criação de peças de CRM com IA, com fluxo de aprovação | Produto SaaS (Social Labs MKT) | Em construção — banco, login, campanhas e aprovação prontos; IA por vir |
-| [Terras de Zui](projetos/terras-de-zui/) | Landing page de loteamento de alto padrão | Site (Social Labs MKT) | Entregue |
+| [Landing Page de Loteamento](projetos/lp-loteamento-alto-padrao/) | Landing page de loteamento de alto padrão | Site (Social Labs MKT) | Entregue |
 
 ---
 
@@ -39,10 +39,10 @@ Projetos desenvolvidos para terceiros são apresentados como **estudo de caso**:
 
 ## Contato
 
+- LinkedIn: [linkedin.com/in/htmellis](https://www.linkedin.com/in/htmellis/)
 - E-mail: _a definir_
-- LinkedIn: _a definir_
 
 ---
 
-© Ellis. Textos e imagens deste repositório: todos os direitos reservados.
+© Ellis Veiga / Social Labs MKT. Textos e imagens deste repositório: todos os direitos reservados.
 Marcas, logotipos e nomes de clientes pertencem aos respectivos titulares.

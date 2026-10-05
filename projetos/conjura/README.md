@@ -65,4 +65,8 @@ Projeto em desenvolvimento; código em repositório privado.
 
 ## Imagens
 
-Adicionar em [`imagens/`](imagens/): diagrama do fluxo, esquema de estados da peça, peças da marca de demonstração.
+Peças geradas para a **marca de demonstração** (fictícia), usadas para validar o motor de arte: banner, e-mail e WhatsApp a partir de um único briefing.
+
+![Peças da marca de demonstração](imagens/pecas-marca-demo.png)
+
+![Manual da marca de demonstração](imagens/manual-marca-demo.png)

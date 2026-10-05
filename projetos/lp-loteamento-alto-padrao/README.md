@@ -1,6 +1,6 @@
-# Terras de Zui Residencial — Landing Page
+# Landing Page — Loteamento Residencial de Alto Padrão
 
-> Landing page de loteamento de alto padrão à beira da Represa da Jaguara, em Rifaina/SP.
+> Landing page de loteamento de alto padrão à beira de uma represa, no interior de São Paulo.
 > Projeto da operação **Social Labs MKT**.
 
 **Stack:** HTML · CSS · JavaScript (sem frameworks) · vídeo e imagens otimizados
@@ -10,7 +10,7 @@
 
 ## Objetivo
 
-Apresentar um empreendimento de alto padrão (lotes de 350 a 1.300 m², paisagismo assinado pelo Escritório Burle Marx, marina, praias privativas e heliponto) e converter visitantes em contatos para os corretores.
+Apresentar um empreendimento de alto padrão (lotes de 350 a 1.300 m², paisagismo assinado por escritório de renome internacional, marina, praias privativas e heliponto) e converter visitantes em contatos para os corretores.
 
 ## Desafio
 
@@ -28,4 +28,4 @@ Apresentar um empreendimento de alto padrão (lotes de 350 a 1.300 m², paisagis
 
 ## Imagens
 
-Adicionar em [`imagens/`](imagens/): capturas desktop e mobile. Usar apenas material liberado pelo cliente.
+Pendente: capturas desktop e mobile, após definir o que pode ser exibido sem identificar o empreendimento.

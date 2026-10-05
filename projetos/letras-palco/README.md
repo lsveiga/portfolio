@@ -35,4 +35,6 @@ A regra da "linha acesa" segue a lógica de um karaokê: **durante a introduçã
 
 ## Imagens
 
-Adicionar em [`imagens/`](imagens/): tela de palco, tela de gravação de tempo, foto em uso (iPad no suporte).
+| Palco | Gravando o tempo | Ajuste por linha |
+|---|---|---|
+| ![Tela de palco](imagens/palco.png) | ![Gravação do tempo](imagens/gravando.png) | ![Ajuste fino por linha](imagens/ajuste.png) |

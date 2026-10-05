@@ -45,4 +45,4 @@ No modo dinâmico cada código tem:
 
 ## Imagens
 
-Adicionar em [`imagens/`](imagens/): tela do gerador, exemplo de QR personalizado, lista de QRs dinâmicos.
+![Gerador de QR Code com personalização de cores, formato e exportação em PNG, SVG e PDF](imagens/gerador.png)

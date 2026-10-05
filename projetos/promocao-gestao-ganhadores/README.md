@@ -1,10 +1,10 @@
-# Corrida Maluca 2026 — Landing Page e Gestão de Ganhadores
+# Promoção de Supermercado — Landing Page e Gestão de Ganhadores
 
 > Hotsite de campanha promocional de supermercado com painel para cadastro e consulta pública de ganhadores.
-> Projeto desenvolvido para a **Solo Propaganda**, cliente final: Sumerbol Supermercados.
+> Projeto desenvolvido para a **Solo Propaganda**, cliente final: rede regional de supermercados.
 
 **Stack:** HTML · Tailwind CSS · JavaScript · PHP · MySQL · Swiper
-**Status:** entregue; campanha vigente de 28/05/2026 a 13/07/2026
+**Status:** entregue; campanha de 2026, com cerca de seis semanas de duração
 
 ---
 
@@ -43,4 +43,4 @@ Código-fonte, base de dados e dados de ganhadores pertencem ao cliente e **não
 
 ## Imagens
 
-Adicionar em [`imagens/`](imagens/): captura da landing (desktop e mobile) e da página pública de ganhadores. **Não** incluir telas do painel com dados reais de participantes.
+Pendente: capturas da landing e da página pública, após definir o que pode ser exibido sem identificar o cliente.

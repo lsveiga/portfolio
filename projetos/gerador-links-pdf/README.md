@@ -35,4 +35,4 @@ desconhecidos de "editar PDF online".
 
 ## Imagens
 
-Adicionar em [`imagens/`](imagens/): PDF carregado com as áreas de link marcadas.
+![Tela inicial do gerador de links em PDF: barra de ferramentas com desfazer, refazer, testar online e baixar](imagens/gerador.png)

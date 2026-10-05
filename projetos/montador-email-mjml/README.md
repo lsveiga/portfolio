@@ -36,4 +36,4 @@ envio, o que gera um passo manual extra para quem monta a peça.
 
 ## Imagens
 
-Adicionar em [`imagens/`](imagens/): tela do montador e um e-mail resultante.
+Capturas pendentes: a tela do montador exibe, hoje, banners e rodapé de clientes reais. Serão geradas com material fictício.
